@@ -1,0 +1,5 @@
+Toto je nejaky text
+Second line
+Third line
+Fourth line
+THE END
