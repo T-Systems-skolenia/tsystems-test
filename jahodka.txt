@@ -2,7 +2,8 @@ Toto je nejaky text
 Second sjlfd line
 Third lineeeee
 Fourth lineeeeeeee
+novy riadok
 THE END
-blablabla
-zmena
+blablaaaaaaabla
+zme
 dalsia zmena
