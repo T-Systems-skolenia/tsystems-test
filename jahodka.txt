@@ -3,7 +3,8 @@ novy riadok
 Second sj line
 Third lineeeee
 Fourth lineeeeeeee
+novy riadok
 THE END
-blablabla
+blablaaaaaaabla
 zmena
-dalsia zmenaaaaaaaaa
+dalsia zmena
