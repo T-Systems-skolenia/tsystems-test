@@ -1,8 +1,9 @@
 Toto je nejaky text
-Second sjlfd line
+novy riadok
+Second sj line
 Third lineeeee
 Fourth lineeeeeeee
 THE END
 blablabla
 zmena
-dalsia zmena
+dalsia zmenaaaaaaaaa
