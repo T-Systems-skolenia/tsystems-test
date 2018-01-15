@@ -1,10 +1,8 @@
 Toto je nejaky text
-novy riadok
 Second sj line
 Third lineeeee
 Fourth lineeeeeeee
-novy riadok
 THE END
-blablaaaaaaabla
+blablabla
 zmena
 dalsia zmena
