@@ -1,4 +1,5 @@
+Pridany riadok.
 Moj novy riadok.
 Malinka je dobra.
-Toto je nejaky novy text. Malinka je fakt.
+Toto je nejaky novy texttttttttttt. Malinka je fakt.
 Koncovy riadok.
